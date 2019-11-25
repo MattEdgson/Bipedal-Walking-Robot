@@ -1,4 +1,4 @@
-# Program to calculate the Mass of Bipedal robot and location of the Centre of mass form set components
+# Program to calculate the Mass of Bipedal robot and location of the Centre of mass fromm set components
 
 # Also calculates how much mass should be added as a 'Spinal mass' to shift the Centre of mass of the robot onto one foot for walking.
 
